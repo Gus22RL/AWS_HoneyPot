@@ -11,19 +11,11 @@
             "id": "345ee9a9a9fba9e1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Servisios/Images/Pasted image 20240623132528.png"
-              }
-            }
-          },
-          {
-            "id": "f84a5a772319f8e2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Servisios/Images/Pasted image 20240623132707.png"
+                "file": "Servisios/HoneyPot Instance.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -38,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2189cec339ab1e54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Servisios/VPC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servisios/VPC.md",
+                "file": "Servisios/HoneyPot Instance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servisios/VPC.md",
+                "file": "Servisios/HoneyPot Instance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servisios/VPC.md"
+                "file": "Servisios/HoneyPot Instance.md"
               }
             }
           }
@@ -179,15 +158,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1aa4768bb199344b",
+  "active": "345ee9a9a9fba9e1",
   "lastOpenFiles": [
-    "Servisios/HoneyPot Instance.md",
-    "Servisios/Images/Pasted.md",
     "Servisios/VPC.md",
-    "Servisios/Images/Pasted image 20240623185913.png",
-    "Servisios/Images/Pasted image 20240623132528.png",
-    "Servisios/Images/Pasted image 20240623132707.png",
     "README.md",
+    "Servisios/Images/Instance-4.png",
+    "Servisios/HoneyPot Instance.md",
+    "Servisios/Images/Instance-3.png",
+    "Servisios/Images/Instance-1.png",
+    "Servisios/Images/Instance-2.png",
+    "Servisios/Images/VPC.png",
+    "Servisios/Images/VPC2.png",
+    "Servisios/Images/SG.png",
+    "Servisios/Images/VPC1.png",
+    "Servisios/Images/Pasted image 20240623164358.png",
+    "Servisios/Images/Pasted image 20240623153403.png",
+    "Images/p.md",
+    "Servisios/Images/Pasted.md",
+    "Images",
     "HoneyPot/create a link.md"
   ]
 }

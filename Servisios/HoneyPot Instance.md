@@ -1,16 +1,16 @@
 ## Launch Instance 
 Named 
-![[Pasted image 20240623185913.png]]
+![[Images/Instance-1.png]]
 
 Choose a Debian distrit  and type
-![[Pasted image 20240623185938.png]]
+![[Images/Instance-2.png]]
 
 
 Choose our Honey-vpc and Security group
-![[Pasted image 20240623190036.png]]
+![[Images/Instance-3.png]]
 
 We select 30 GiB to install and collect information.
-![[Pasted image 20240623190054.png]]
+![[Images/Instance-4.png]]
 ## Configuration 
 #### Download and install cowrie
 
@@ -69,5 +69,5 @@ $ bin/cowrie start
 ```
 ####  Edit Security group
 Add a new rol to allow access Telnet
-![[Pasted image 20240623191856.png]]
+![[SG.png]]
 
