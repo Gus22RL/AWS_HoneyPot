@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "379481cebe654b09",
+        "id": "7032fecf27343769",
         "type": "tabs",
         "children": [
           {
-            "id": "345ee9a9a9fba9e1",
+            "id": "eb7b0550e8b0569a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Servisios/HoneyPot Instance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "861a3880fa337c5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Servisios/HoneyPot Instance.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servisios/HoneyPot Instance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servisios/HoneyPot Instance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Servisios/HoneyPot Instance.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,12 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "345ee9a9a9fba9e1",
+  "active": "eb7b0550e8b0569a",
   "lastOpenFiles": [
+    "Servisios/HoneyPot Instance.md",
     "Servisios/VPC.md",
     "README.md",
     "Servisios/Images/Instance-4.png",
-    "Servisios/HoneyPot Instance.md",
     "Servisios/Images/Instance-3.png",
     "Servisios/Images/Instance-1.png",
     "Servisios/Images/Instance-2.png",
