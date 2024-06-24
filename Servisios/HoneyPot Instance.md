@@ -69,5 +69,5 @@ $ bin/cowrie start
 ```
 ####  Edit Security group
 Add a new rol to allow access Telnet
-![[SG.png]]
+![[Images/SG.png]]
 
