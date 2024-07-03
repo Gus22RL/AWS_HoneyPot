@@ -11,8 +11,12 @@
             "id": "eb7b0550e8b0569a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HoneyPot Instance.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HoneyPot Instance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HoneyPot Instance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HoneyPot Instance.md"
+              }
             }
           }
         ]
@@ -140,19 +148,19 @@
   },
   "active": "eb7b0550e8b0569a",
   "lastOpenFiles": [
-    "Servisios/HoneyPot Instance.md",
-    "Servisios/VPC.md",
+    "SG-01.png",
+    "SG.png",
+    "HoneyPot Instance.md",
+    "VPC.md",
+    "Volume-1.png",
+    "Instance-1.png",
+    "Volume-2.png",
+    "VPC2.png",
+    "Instance-2.png",
     "README.md",
-    "Servisios/Images/Instance-4.png",
-    "Servisios/Images/Instance-3.png",
-    "Servisios/Images/Instance-1.png",
-    "Servisios/Images/Instance-2.png",
-    "Servisios/Images/VPC.png",
-    "Servisios/Images/VPC2.png",
-    "Servisios/Images/SG.png",
-    "Servisios/Images/VPC1.png",
-    "Servisios/Images/Pasted image 20240623164358.png",
-    "Servisios/Images/Pasted image 20240623153403.png",
+    "Instance-4.png",
+    "Instance-3.png",
+    "VPC.png",
     "Images/p.md",
     "Servisios/Images/Pasted.md",
     "Images",
