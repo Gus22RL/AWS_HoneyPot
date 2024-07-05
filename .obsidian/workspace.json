@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HoneyPot Instance.md",
+                "file": "Servisios/AWS Glue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HoneyPot Instance.md",
+                "file": "Servisios/AWS Glue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HoneyPot Instance.md",
+                "file": "Servisios/AWS Glue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HoneyPot Instance.md"
+                "file": "Servisios/AWS Glue.md"
               }
             }
           }
@@ -148,19 +148,23 @@
   },
   "active": "eb7b0550e8b0569a",
   "lastOpenFiles": [
+    "Pasted image 20240705120416.png",
+    "Pasted image 20240705120300.png",
+    "Pasted image 20240705120149.png",
+    "Servisios/Lambda.md",
+    "Servisios/AWS Glue.md",
+    "Pasted image 20240705120015.png",
+    "Pasted image 20240705115816.png",
+    "Pasted image 20240705115716.png",
+    "Pasted image 20240705115704.png",
+    "HoneyPot Instance.md",
+    "Entregables/~$Arquitecura Honey Pot.tmp",
     "SG-01.png",
     "SG.png",
-    "HoneyPot Instance.md",
     "VPC.md",
     "Volume-1.png",
     "Instance-1.png",
-    "Volume-2.png",
-    "VPC2.png",
-    "Instance-2.png",
     "README.md",
-    "Instance-4.png",
-    "Instance-3.png",
-    "VPC.png",
     "Images/p.md",
     "Servisios/Images/Pasted.md",
     "Images",

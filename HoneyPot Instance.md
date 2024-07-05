@@ -12,7 +12,7 @@ Choose our Honey-vpc and Security group
 We select 30 GiB to install and collect information.
 ![[Instance-4.png]
 ## Configuration HoneyPot
-
+### Heralding
 Once logged into the instance, we will perform an update and an upgrade.
 Before install Git.
 
@@ -20,7 +20,7 @@ Before install Git.
 sudo apt install git
 ```
 
-### Clone heralding repository
+#### Clone heralding repository
 
 ```
 git clone https://github.com/johnnykv/heralding.git
@@ -32,7 +32,7 @@ sudo apt-get install -y python3 python3-pip python3-venv docker.io
 
 #### Build the Image 
 ```
-sudo docker build -t heralding_modificado .
+sudo docker build -t heralding .
 ```
 #### Run Docker
 ```
@@ -72,6 +72,8 @@ sudo systemctl restart sshd
 
 Add al pots as we need.
 ![[SG-01.png]]
+
+### Cowrie
 
 ## Send logs to S3
 
